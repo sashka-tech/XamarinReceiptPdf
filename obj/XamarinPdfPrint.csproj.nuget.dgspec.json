@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\XamarinPdfPrint\\XamarinPdfPrint.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\XamarinPdfPrint\\XamarinPdfPrint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\XamarinPdfPrint\\XamarinPdfPrint.csproj",
+        "projectName": "XamarinPdfPrint",
+        "projectPath": "D:\\C#\\XamarinPdfPrint\\XamarinPdfPrint.csproj",
+        "packagesPath": "C:\\Users\\пэдро\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\XamarinPdfPrint\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\пэдро\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Dexter": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Xam.iTextSharpLGPL": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "Xamarin.Android.Support.Annotations": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Collections": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.7, )"
+            },
+            "Xamarin.AndroidX.Legacy.Support.V4": {
+              "target": "Package",
+              "version": "[1.0.0.7, )"
+            },
+            "Xamarin.AndroidX.Lifecycle.LiveData": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.3.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
